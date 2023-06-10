@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server",
-    "dev": "Nodemon server"
+    "start": "node index",
+    "dev": "Nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro Victor Lima Torreão",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
