@@ -6,12 +6,13 @@ Projeto para a segunda fase do processo seletivo do Projeto Puma.
 
 Projeto consiste em uma aplicação que cria e adiciona usuario do GitHub a uma lista de favoritos do GitHub. 
 
+## Autor
+Pedro Victor Lima Torreão
+
 ## Índice
 
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Instalação 
 **Linguagem**: Javascript<br>
