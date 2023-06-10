@@ -16,7 +16,7 @@ Pedro Victor Lima Torreão
 
 ## Instalação 
 **Linguagem**: Javascript<br>
-**Framework**: React<br>
+**Frameworks**: React para o frontend e express.js para o backend<br>
 
 ### Clonando o repositório
 
