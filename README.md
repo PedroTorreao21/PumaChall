@@ -4,7 +4,7 @@ Projeto para a segunda fase do processo seletivo do Projeto Puma.
 
 ## Descrição
 
-Projeto consiste em uma aplicação que cria e adiciona usuario do GitHub a uma lista de favoritos do GitHub 
+Projeto consiste em uma aplicação que cria e adiciona usuario do GitHub a uma lista de favoritos do GitHub. 
 
 ## Índice
 
@@ -15,10 +15,24 @@ Projeto consiste em uma aplicação que cria e adiciona usuario do GitHub a uma 
 
 ## Instalação 
 **Linguagem**: Javascript<br>
-**Frameworks**: React para frontend, express.js para backend<br>
+**Framework**: React<br>
 
+### Clonando o repositório
+
+Para clonar o repositório digite:
+
+```console
+git clone https://github.com/PedroTorreao21/PumaChall.git
+```
+### Executando o programa
+
+Para execurtar o programa execute o comando:
+```console
+npm start
+```
+Após realizar esses passos, a plataforma estará rodando na [porta 5000](http://localhost:5000/)
 ## Uso
 
-Explique como usar o projeto. Forneça exemplos de código, capturas de tela ou qualquer outra informação útil para o usuário entender como o projeto funciona.
+
 
 
