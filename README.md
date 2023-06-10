@@ -24,9 +24,23 @@ Para clonar o repositório digite:
 ```console
 git clone https://github.com/PedroTorreao21/PumaChall.git
 ```
+### Instalando as dependências
+
+Após clonar o repositório baixe as dependências
+```console
+yarn install
+```
+ou
+```console
+npm i
+```
 ### Executando o programa
 
 Para execurtar o programa execute o comando:
+```console
+yarn start
+```
+ou
 ```console
 npm start
 ```
